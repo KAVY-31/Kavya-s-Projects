@@ -20,6 +20,14 @@ Provided actionable insights into employee retention, identifying trends by depa
 Empowered HR teams to take data-driven decisions for improving job satisfaction and work-life balance, ultimately reducing attrition.
 
 
+Customer Churn Analysis
+
+Developed and implemented measures to track and analyze customer segments including exit customers, inactive members, non-credit card holders, and retained customers, improving visibility on customer behavior patterns.
+Categorized customer base by various attributes: total customers, active/inactive members, credit card and non-credit card holders, and exit vs. retained customers to facilitate targeted strategies.
+Created a stacked column chart for visualizing total customers by month with an active/inactive status breakdown, providing insights into customer engagement trends over time.
+Designed a line chart comparing exit customer trends by month, with detailed analysis on current and previous month exits, aiding in identifying potential risk patterns.
+Generated pie charts and bar charts to analyze exit customers by gender and credit type, offering demographic and credit-related insights for understanding churn drivers.
+Utilized slicers for enhanced data filtering based on parameters such as bank date of joining, month, geography, customer active status, and gender, ensuring data-driven decision-making across multiple customer segments.
 
 
 
