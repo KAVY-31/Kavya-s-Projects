@@ -1,4 +1,4 @@
-Attrition and Work-Life Balance Analysis Dashboard
+Attrition and Work-Life Balance Analysis Dashboard:
 
 Developed an interactive Power BI dashboard to analyze employee attrition trends and work-life balance, providing key insights for HR teams to enhance employee satisfaction and retention strategies.
 
@@ -23,7 +23,9 @@ Business Impact:Provided actionable insights into employee retention, identifyin
 Empowered HR teams to take data-driven decisions for improving job satisfaction and work-life balance, ultimately reducing attrition.
 
 
-Customer Churn Analysis
+
+
+Customer Churn Analysis:
 
 Developed and implemented measures to track and analyze customer segments including exit customers, inactive members, non-credit card holders, and retained customers, improving visibility on customer behavior patterns.
 Categorized customer base by various attributes: total customers, active/inactive members, credit card and non-credit card holders, and exit vs. retained customers to facilitate targeted strategies.
@@ -54,7 +56,10 @@ Visualized sales data using a stacked column chart for total sales by year and m
 Incorporated slicers for flexible filtering based on year, month, product category, product name, store name, store location, and store city to provide dynamic report interactivity.
 Delivered actionable insights on store performance, product sales trends, and geographical analysis for better decision-making.
 
-Personal Finance Data Analysis and Visualization
+
+
+Personal Finance Data Analysis and Visualization:
+
 
 Developed and tracked measures for key financial metrics including total income, total expenses, and total unpaid expenses, enabling comprehensive personal financial oversight.
 Created a clustered column chart to visualize the status of bills (paid/unpaid) over time, improving bill management and expense tracking.
@@ -64,21 +69,32 @@ Built a donut chart for a detailed breakdown of expenses by sub-category, provid
 Implemented cards to display key metrics like the sum of income targets and total unpaid expenses, ensuring quick access to vital financial data.
 Incorporated a slicer to filter financial data by month, allowing for easy comparison of financial performance across different periods.
 
-Supermarket Sales Dashboard 
 
-	•	Objective: Developed an interactive Power BI dashboard to analyze and visualize supermarket sales data for better business insights.
-	•	Key Features:
-	•	Product Line Analysis: Created a table to compare different product categories, including Electronic Accessories, Fashion Accessories, Food and Beverages, Health and Beauty, Home and Lifestyle, and Sports and 
-    Travel. Displayed total sales quantities for each product line and identified the top-selling category.
-	•	Sales Trends: Implemented slicers to allow filtering data by custom date ranges. Used area charts to show trends in average sales quantity, profit, gross income, and total quantity sold over time.
-	•	Customer Insights: Built pie charts to represent customer demographics, such as gender distribution and membership status (member vs. non-member).
-	•	Geographic and Branch Performance: Utilized clustered bar charts to compare sales across different cities and branch profits.
-	•	Payment Method Analysis: Created a treemap to display the average sales quantities segmented by payment methods (e-wallet, credit card, and cash).
-	•	Financial Analysis: Designed clustered column charts to show cost of goods sold by product line.
-	•	Performance Metrics: Included cards to highlight key metrics like the highest sold product line and total products sold.
-	•	Tools & Technologies: Power BI, DAX, data modeling.
+Supermarket Sales Data :
 
 
+Objective: Developed an interactive Power BI dashboard to analyze and visualize supermarket sales data for better business insights.
+Key Features: 
+
+Product Line Analysis: Created a table to compare different product categories, including Electronic Accessories, Fashion Accessories, Food and Beverages, Health and Beauty, Home and Lifestyle, and Sports and Travel. Displayed total sales quantities for each product line and identified the top-selling category.
+
+Sales Trends: Implemented slicers to allow filtering data by custom date ranges. Used area charts to show trends in average sales quantity, profit, gross income, and total quantity sold over time.
+
+Customer Insights: Built pie charts to represent customer demographics, such as gender distribution and membership status (member vs. non-member).
+
+Geographic and Branch Performance: Utilized clustered bar charts to compare sales across different cities and branch profits.
+
+Payment Method Analysis: Created a treemap to display the average sales quantities segmented by payment methods (e-wallet, credit card, and cash).
+
+Financial Analysis: Designed clustered column charts to show cost of goods sold by product line.
+
+Performance Metrics: Included cards to highlight key metrics like the highest sold product line and total products sold.
+
+Tools & Technologies: Power BI, DAX, data modeling.
+
+
+
+	
 
 
 
