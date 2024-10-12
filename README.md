@@ -31,6 +31,16 @@ Utilized slicers for enhanced data filtering based on parameters such as bank da
 
 
 
+Data Professional Survey:
+
+Demographics & Diversity: Uncovered trends in age, gender, and geographic distribution, highlighting diversity gaps and concentrations of data professionals.
+Career Progression: Analyzed experience levels, salary trends, and career paths, identifying common transitions and growth patterns in the industry.
+Technical Skills: Most frequently used tools include Python, R, and SQL, with emerging technologies gaining traction; skill gaps identified for future growth.
+Job Satisfaction: Key drivers of satisfaction were salary, work-life balance, and remote work flexibility, with varying satisfaction levels across roles.
+Learning Preferences: Online courses and certifications were the top resources for continued professional development.
+
+
+
 
 Maven Toy Sales Dashboard Overview:
 
